@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int incrementBy1(int &k)
+void incrementBy1(int &k)
 {
     k = k * 109;
 }

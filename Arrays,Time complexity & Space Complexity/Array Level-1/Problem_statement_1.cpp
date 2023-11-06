@@ -20,6 +20,8 @@ int main()
         cout << arr[i] << " ";
     }
 
+    cout<<endl;
+
     // Double up the value
     cout << "Doubles: " << endl;
     for (int i = 0; i < n; i++)
